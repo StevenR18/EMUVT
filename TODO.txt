@@ -1,0 +1,5 @@
+- en la funcion traslate_keyevent_tovt_sequences()
+  *falta procesar en la fila 2 del teclado
+    *las tecla numero [1 y 12 -13]  [|]['][¿]
+    *combinaciond de sifht+[|]['][¿]
+    
